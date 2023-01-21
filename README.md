@@ -1,10 +1,10 @@
 <img src="https://github.com/w0rkm4n/w0rkm4n/blob/main/media/pixel-jeff-clipa-s.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72F1F&center=true&vCenter=true&multiline=true&width=1200&height=80&lines=Hi!+I'm+w0rkm4n;Pentesting+Student+%7C+CTF+Player+%7C+Red+Team" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72F1F&center=true&vCenter=true&multiline=true&width=1200&height=80&lines=Hi!+I'm+w0rkm4n;Learning+Pentesting+for+Fun+%7C+CTF+Player+%7C+Red+Team" alt="Typing SVG" /></a>
 
 ### :octocat: About Me
   
-- :computer: Pentesting Student
+- :computer: Pentester
 - :keyboard: CTF player in [Hack The Box](https://app.hackthebox.com/users/1359890)
 
 <h3 align="left">:wrench: Languages and Tools</h3>
