@@ -5,7 +5,7 @@
 ### :octocat: About Me
   
 - :computer: Pentester
-- :keyboard: CTF player in [Hack The Box](https://app.hackthebox.com/users/1359890)<a href="https://app.hackthebox.com/users/1359890" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4" alt="Hack The Box" height="30" width="40" /></a>
+- :keyboard: CTF player in [Hack The Box](https://app.hackthebox.com/profile/1359890)<a href="https://app.hackthebox.com/profile/1359890" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4" alt="Hack The Box" height="30" width="40" /></a>
 
 </br>
 </br>
