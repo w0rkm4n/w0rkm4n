@@ -8,7 +8,7 @@
         Hello!
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I'm+w0rkm4n,+a+Hacking+Enthusiast+%26+CTF+Player">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I'm+w0rkm4n,+a+Hacker+for+Fun+%26+CTF+Player">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
