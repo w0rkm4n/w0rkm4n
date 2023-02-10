@@ -7,3 +7,25 @@
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<h2></h2><br>
+
+## Stats
+
+![+H2o stats](https://github-readme-stats.vercel.app/api?username=w0rkm4n&show_icons=true&theme=react&include_all_commits=true)  
+  
+## Most used languages
+
+![+H2o Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w0rkm4n&theme=react&layout=compact&hide=HTML)
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="#">twitter</a>]
+    [<a href="#">instagram</a>]
+    [<a href="#">matrix</a>]
+    [<a href="#">e-mail</a>]
+  </samp>
+</p>
