@@ -21,9 +21,9 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="#">twitter</a>]
+    <!-- [<a href="#">twitter</a>] -->
     [<a href="https://app.hackthebox.com/profile/1359890">Hack The Box</a>]
-    [<a href="#">e-mail</a>]
+    <!-- [<a href="#">e-mail</a>] -->
   </samp>
 </p>
 
