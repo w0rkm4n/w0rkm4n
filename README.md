@@ -4,7 +4,7 @@
   <p align="center">
     <samp>
       <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Iosevka&size=21&duration=7000&pause=1000&center=true&vCenter=true&multiline=true&width=510&height=40&lines=I'm+w0rkm4n.+A+Enthusiast+%26+CTF+Player">      
+        <image src="https://readme-typing-svg.demolab.com?font=Iosevka&size=21&duration=7000&pause=1000&center=true&vCenter=true&multiline=true&width=510&height=40&lines=I'm+w0rkm4n.+An+Enthusiast+%26+CTF+Player">      
       <br>
     </samp>
   </p>
