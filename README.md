@@ -14,7 +14,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><samp><b>See More</b></samp></summary>
 
 <h2></h2><br>
 
