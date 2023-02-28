@@ -16,18 +16,16 @@
 <details>
 <summary><samp><b>See More</b></samp></summary>
 
-<h2></h2><br>
+<h2></h2>
 
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    <!-- [<a href="#">twitter</a>] -->
-    [<a href="https://app.hackthebox.com/profile/1359890">Hack The Box</a>]
-    <!-- [<a href="#">e-mail</a>] -->
-  </samp>
-</p>
+<!-- Others -->
+<div align="center">
+<h3>Hack The Box Profile</h3>
+  <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/1359890">
+<img src="http://www.hackthebox.eu/badge/image/1359890" alt="Hack The Box Profile"></a>
+</div>
 
-<h2></h2><br>
+<h2></h2>
 
 <!-- Github Stats -->
 <div align="center">
