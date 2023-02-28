@@ -21,8 +21,8 @@
 <!-- Others -->
 <div align="center">
 <h3>Hack The Box Profile</h3>
-  <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/1359890">
-<img src="http://www.hackthebox.eu/badge/image/1359890" alt="Hack The Box Profile"></a>
+  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/1359890">
+<img src="https://www.hackthebox.com/badge/image/1359890" alt="Hack The Box Profile"></a>
 </div>
 
 <h2></h2>
