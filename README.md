@@ -8,13 +8,13 @@
         Hello!
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=450&height=45&lines=I'm+w0rkm4n,+a+Hacking+Enthusiast+%26+CTF+Player">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=CD0404&center=true&width=515&height=45&lines=I'm+w0rkm4n,+a+Hacking+Enthusiast+%26+CTF+Player">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<details>
-<summary><samp><b>See More</b></samp></summary>
+<!-- <details>
+<summary><samp><b>See More</b></samp></summary> -->
 
 <h2></h2>
 
@@ -31,8 +31,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=w0rkm4n&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rkm4n&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=w0rkm4n&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=dark"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0rkm4n&layout=compact&line_height=21&hide_border=true&theme=dark"/></a></td>
     </tr>
   </table>
 </div>
