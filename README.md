@@ -3,9 +3,9 @@
 
 
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
+<!-- <p align="left"><strong><samp>「</samp></strong></p> -->
 <div align='center'>
-<image width='950px' src='https://github.com/w0rkm4n/w0rkm4n/blob/main/media/pixel-jeff-matrix-s.gif' >
+<image src='https://github.com/w0rkm4n/w0rkm4n/blob/main/media/pixel-jeff-matrix-s.gif' >
 </div>
 <br>
   <p align="center">
@@ -17,7 +17,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=CD0404&center=true&width=520&height=45&lines=I'm+w0rkm4n,+a+Hacking+Enthusiast+%26+CTF+Player">
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<!-- <p align="right"><strong><samp>」</samp></strong></p> -->
 
 <!-- <details>
 <summary><samp><b>See More</b></samp></summary> -->
