@@ -11,7 +11,7 @@
   <p align="center">
     <samp>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=CD0404&center=true&width=520&height=45&lines=H3ll0+1'm+w0rkm4n">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=CD0404&center=true&width=520&height=45&lines=1'm+w0rkm4n">
     </samp>
   </p>
 <!-- <p align="right"><strong><samp>」</samp></strong></p> -->
@@ -22,8 +22,7 @@
 <h2></h2>
 
 <!-- Others -->
-<div align="center">
-<h3>Hack The Box Profile</h3>
+<div>
   <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/1359890">
 <img src="https://www.hackthebox.com/badge/image/1359890" alt="Hack The Box Profile"></a>
 </div>
